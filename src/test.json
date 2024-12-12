@@ -1,0 +1,13 @@
+{
+  "name": "TEST",
+  "type": 1,
+  "icon": "hub",
+  "class_name": "test",
+  "module": "test",
+  "cloud": false,
+  "support_autoupdate": true,
+  "autoupdate_interval": 10000,
+  "mac_address": false,
+  "dynamic_capabilities": true,
+  "sort_index": 4
+}
